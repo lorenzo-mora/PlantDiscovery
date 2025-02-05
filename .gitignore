@@ -172,3 +172,5 @@ cython_debug/
 
 # Custom Paths
 data/
+.DS_Store
+.python-version
